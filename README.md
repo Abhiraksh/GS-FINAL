@@ -1,1 +1,2 @@
-# GS-FINAL
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
